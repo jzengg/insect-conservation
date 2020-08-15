@@ -1,0 +1,8 @@
+*.yaml
+.DS_STORE
+.idea
+venv/
+.ipynb_checkpoints/
+.env
+data/*_dump*
+

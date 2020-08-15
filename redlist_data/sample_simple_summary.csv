@@ -1,0 +1,10 @@
+assessmentId,internalTaxonId,scientificName,kingdomName,phylumName,orderName,className,familyName,genusName,speciesName,infraType,infraName,infraAuthority,authority,redlistCategory,redlistCriteria,criteriaVersion,populationTrend,scopes
+497499,132523146,Hubbsina turneri,ANIMALIA,CHORDATA,CYPRINODONTIFORMES,ACTINOPTERYGII,GOODEIDAE,Hubbsina,turneri,,,,"(de Buen, 1940)",Critically Endangered,"B1ab(i,ii,iii,iv)+2ab(i,ii,iii,iv)",3.1,Decreasing,Global
+497550,10267,Hungerfordia pelewensis,ANIMALIA,MOLLUSCA,ARCHITAENIOGLOSSA,GASTROPODA,DIPLOMMATINIDAE,Hungerfordia,pelewensis,,,,"Beddome, 1889",Endangered,"B1ab(ii,iii)+2ab(ii,iii)",3.1,Unknown,Global
+498370,10767,Ictalurus australis,ANIMALIA,CHORDATA,SILURIFORMES,ACTINOPTERYGII,ICTALURIDAE,Ictalurus,australis,,,,"(Meek, 1904)",Data Deficient,,3.1,Decreasing,Global
+498476,10769,Ictalurus mexicanus,ANIMALIA,CHORDATA,SILURIFORMES,ACTINOPTERYGII,ICTALURIDAE,Ictalurus,mexicanus,,,,"(Meek, 1904)",Vulnerable,D2,3.1,Unknown,Global
+498639,1078,Ambloplites cavifrons,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CENTRARCHIDAE,Ambloplites,cavifrons,,,,"Cope, 1868",Least Concern,,3.1,Stable,Global
+498726,10803,Iguanognathus werneri,ANIMALIA,CHORDATA,SQUAMATA,REPTILIA,COLUBRIDAE,Iguanognathus,werneri,,,,"Boulenger, 1898",Data Deficient,,3.1,,Global
+498826,132521900,Ilyodon whitei,ANIMALIA,CHORDATA,CYPRINODONTIFORMES,ACTINOPTERYGII,GOODEIDAE,Ilyodon,whitei,,,,(Meek 1904),Least Concern,,3.1,Decreasing,Global
+500479,11058,Kubaryia pilikia,ANIMALIA,MOLLUSCA,LITTORINIMORPHA,GASTROPODA,ASSIMINEIDAE,Kubaryia,pilikia,,,,"Clench, 1948",Critically Endangered,B1ab(iii),3.1,Unknown,Global
+500780,11150,Lagocephalus gloveri,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,TETRAODONTIDAE,Lagocephalus,gloveri,,,,"Abe &amp; Tabeta, 1983",Data Deficient,,3.1,Decreasing,Global
