@@ -5,4 +5,5 @@ venv/
 .ipynb_checkpoints/
 .env
 data/*_dump*
+ignored_data/
 
